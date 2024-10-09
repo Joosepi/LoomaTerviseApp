@@ -35,7 +35,3 @@ Töötan selle projekti kallal üksinda, mis sisaldab:
 - **Testimine ja vigade parandamine**: 10 tundi
 
 See on ligikaudne hinnang, mis sisaldab programmeerimist, dokumentatsiooni ja testimist.
-
-## Lisainformatsioon
-
-See projekt on inspireeritud lemmikloomade registreerimise süsteemidest nagu [Lemmikloomaregister](https://www.lemmikloomaregister.ee/et/) ja [LLR](https://www.llr.ee/KKK). Rakenduse eesmärk on lihtsustada lemmikloomade mikrokiibi andmete haldamist, muutes selle kergesti kättesaadavaks ja hallatavaks nii lemmikloomade omanikele kui ka organisatsioonidele.
