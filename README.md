@@ -26,7 +26,6 @@ Selle projekti rakendamiseks on vajalikud järgmised tehnoloogiad ja oskused:
 
 ## Isiklikud Oskused
 
-- **Tagapõhja arendus**: Kogemus Laraveli ja andmebaaside haldamisega.
 - **Kasutajaliidese arendus**: Töö HTML-i, CSS-i ja JavaScriptiga kasutajaliidese ehitamiseks.
 - **Andmebaasi disain**: Teadmised relatsiooniliste andmebaaside struktureerimisest lemmikloomade, omanike ja seotud andmete haldamiseks.
 - **API arendus**: Võimekus luua REST API-sid andmebaasiga ja teiste süsteemidega suhtlemiseks.
