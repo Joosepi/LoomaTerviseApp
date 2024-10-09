@@ -26,7 +26,7 @@ Selle projekti rakendamiseks on vajalikud järgmised tehnoloogiad ja oskused:
 
 ## Aja Hinnang
 
-Töötan selle projekti kallal üksinda ja hindan, et arendusaeg on umbes 160 tundi, mis sisaldab:
+Töötan selle projekti kallal üksinda, mis sisaldab:
 
 - **Projekti planeerimine**: 20 tundi
 - **Tagapõhja ja andmebaasi arendus**: 70 tundi
