@@ -34,4 +34,4 @@ Töötan selle projekti kallal üksinda, mis sisaldab:
 - **Mikrokiibi lugeja integreerimine**: 20 tundi
 - **Testimine ja vigade parandamine**: 10 tundi
 
-See on ligikaudne hinnang, mis sisaldab programmeerimist, dokumentatsiooni ja testimist.
+
