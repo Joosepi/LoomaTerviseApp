@@ -15,7 +15,7 @@ Selle projekti eesmärk on luua veebirakendus, mis loeb lemmikloomade mikrokiipe
 
 ## Tehnoloogiad ja Vajalikud Oskused
 
-Selle projekti rakendamiseks on vajalikud järgmised tehnoloogiad ja oskused:
+Tehnoloogiad ja oskused:
 
 - **Laravel**: Veebirakenduse raamistiku arendamiseks ja serveripoolse loogika käsitlemiseks.
 - **SQLite**: Kerge ja serverita andmebaasi lahendus, et salvestada lemmikloomade ja omanike andmeid.
