@@ -24,13 +24,6 @@ Selle projekti rakendamiseks on vajalikud järgmised tehnoloogiad ja oskused:
 - **REST API**: API-de loomine lemmiklooma info haldamiseks ja andmete pärimiseks.
 - **Versioonihaldus (Git)**: Koodi muutuste jälgimiseks ja koostööhalduseks GitHubi kaudu.
 
-## Isiklikud Oskused
-
-- **Kasutajaliidese arendus**: Töö HTML-i, CSS-i ja JavaScriptiga kasutajaliidese ehitamiseks.
-- **Andmebaasi disain**: Teadmised relatsiooniliste andmebaaside struktureerimisest lemmikloomade, omanike ja seotud andmete haldamiseks.
-- **API arendus**: Võimekus luua REST API-sid andmebaasiga ja teiste süsteemidega suhtlemiseks.
-- **Probleemide lahendamine**: Tugevad analüüsioskused riistvara ja tarkvara integreerimiseks.
-
 ## Aja Hinnang
 
 Töötan selle projekti kallal üksinda ja hindan, et arendusaeg on umbes 160 tundi, mis sisaldab:
