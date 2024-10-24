@@ -23,18 +23,13 @@ class PetController extends Controller
         $validatedData = $request->validate([
             'name' => 'required|max:255',
             'species' => 'required|max:255',
-            'breed' => 'required|max:255',
+            'breed' => 'nullable|max:255',
             'date_of_birth' => 'required|date',
         ]);
 
-        $pet = Pet::create($validatedData);
+        Pet::create($validatedData);
 
-        return redirect()->route('pets.show', $pet)->with('success', 'Pet created successfully.');
-    }
-
-    public function show(Pet $pet)
-    {
-        return view('pets.show', compact('pet'));
+        return redirect()->route('pets.index')->with('success', 'Pet created successfully.');
     }
 
     public function edit(Pet $pet)
@@ -47,13 +42,13 @@ class PetController extends Controller
         $validatedData = $request->validate([
             'name' => 'required|max:255',
             'species' => 'required|max:255',
-            'breed' => 'required|max:255',
+            'breed' => 'nullable|max:255',
             'date_of_birth' => 'required|date',
         ]);
 
         $pet->update($validatedData);
 
-        return redirect()->route('pets.show', $pet)->with('success', 'Pet updated successfully.');
+        return redirect()->route('pets.index')->with('success', 'Pet updated successfully.');
     }
 
     public function destroy(Pet $pet)

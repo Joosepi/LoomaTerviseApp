@@ -14,12 +14,13 @@ class Pet extends Model
         'species',
         'breed',
         'date_of_birth',
-        'user_id',
+        // Add any other relevant attributes
     ];
 
-    public function user()
+    // Define relationships if needed
+    public function owner()
     {
-        return $this->belongsTo(User::class);
+        return $this->belongsTo(User::class, 'owner_id');
     }
 
     // Add relationships for health records and training sessions
@@ -33,4 +34,3 @@ class Pet extends Model
         return $this->hasMany(TrainingSession::class);
     }
 }
-
