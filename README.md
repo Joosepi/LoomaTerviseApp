@@ -24,7 +24,7 @@ Selle projekti eesmärk on luua veebirakendus, mis võimaldab kasutajatel jälgi
 
 - Backend: Node.js, Express.js
 - Framework: React.js
-- Andmebaas: MySQL (TablePlus)
+- Andmebaas: MySQL
 - ORM: Sequelize
 - API: RESTful API
 - Autentimine: JWT
