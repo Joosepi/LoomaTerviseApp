@@ -23,12 +23,12 @@ Selle projekti eesmärk on luua veebirakendus, mis võimaldab kasutajatel jälgi
 ## Tehnoloogiad ja Vajalikud Oskused
 
 - Backend: Node.js, Express.js
-- Frontend: React.js
+- Framework: React.js
 - Andmebaas: MySQL (TablePlus)
 - ORM: Sequelize
 - API: RESTful API
 - Autentimine: JWT
-- Kasutajaliides: HTML, CSS, JavaScript
+- frontend: HTML, CSS, JavaScript
 - Versioonihaldus: Git ja GitHub
 
 ## Aja Hinnang
